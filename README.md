@@ -1,6 +1,6 @@
 # PLPBasicGitAssignment
 
-#Procedure
+# *Procedure*
 
 1. GitHub Repository Creation:
 
